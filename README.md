@@ -1,7 +1,7 @@
 # COVID-19-Global-Dashboard-Tracking-the-Pandemic-with-Power-BI
 Track the global COVID-19 pandemic with an interactive Power BI dashboard. Stay informed with real-time data, visualizations, and key metrics on cases, deaths, recoveries, testing, and vaccination rates worldwide.
 
-# 1. Data Collection:
+#### 1. Data Collection:
 - Utilized Power BI's web scraping capabilities to collect data from the Worldometer website, specifically the COVID-19 statistics page.
 - Automated the data collection process by setting up scheduled refreshes within Power BI to ensure the dashboard displays up-to-date information.
 
